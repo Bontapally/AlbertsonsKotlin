@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbertsonsKotlinChallenge</string>
+    <string name="enter_an_acronym_or_initialism">Enter an acronym or initialism</string>
+    <string name="since">Since:</string>
+</resources>
